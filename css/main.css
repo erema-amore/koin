@@ -1,0 +1,80 @@
+@import './reset.css';
+
+
+.container{
+    margin: 0 auto;
+    width: 1400px;
+}
+
+
+a {
+    text-decoration: none;
+    color: #717171;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.first__section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.first__section-logo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+}
+
+.first__section-product{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.first__section-support{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 60px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.first__section-search{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+}
+
+.circle{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.circle__border{
+    width: 58px;
+    height: 58px;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+
+
+    
+
+.schedule{
+    width: 177px;
+    height: 56px;
+    border: 1px solid black;
+    border-radius: 28px;
+}
