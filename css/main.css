@@ -527,7 +527,7 @@ a {
     line-height: 21px;
     text-align: center;
     color: #FFFFFF;
-    margin: 10px 0;
+    margin: 50px 0;
 }
 
 
@@ -539,9 +539,9 @@ a {
 
 .footer__block-2-sun{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: start;
-    padding: 30px;
+    padding: 50px 0;
 }
 
 
@@ -690,7 +690,7 @@ a {
     line-height: 15px;
     text-align: center;
     color: #9FA4A6;
-    margin: 10px;
+    margin: 10px 0;
 }
 
 
@@ -700,7 +700,7 @@ a {
     line-height: 15px;
     text-align: center;
     color: #9FA4A6;
-    margin: 10px;
+    margin: 10px 0;
 }
 
 .footer__block-2-privacy-copyright{
